@@ -52,3 +52,88 @@ Materiais, projetos gráficos, identidades visuais e estudos sobre design.
 
 Cada repositório foi desenvolvido com foco no aprendizado contínuo e no aprimoramento de habilidades técnicas.
 Fique à vontade para explorar, utilizar como referência ou contribuir com ideias e melhorias.
+
+🌟 Hard e Soft Skills para Desenvolvedores
+
+Este repositório contém um resumo estruturado sobre as principais Hard Skills e Soft Skills necessárias para profissionais da área de Desenvolvimento de Sistemas.
+O material foi criado a partir de um arquivo informativo com explicações, conceitos e exemplos práticos dessas habilidades.
+
+📘 O que você encontrará neste repositório?
+
+✔ Explicação clara sobre Soft Skills
+
+✔ Explicação sobre Hard Skills
+
+✔ Exemplos práticos de cada habilidade
+
+✔ Importância dessas competências para desenvolvedores
+
+✔ Links de referência para estudo
+
+🧠 Soft Skills
+
+As Soft Skills são habilidades socioemocionais que influenciam diretamente a forma como nos comunicamos, colaboramos e lidamos com desafios no ambiente profissional.
+
+Principais Soft Skills apresentadas:
+🔹 Comunicação
+
+Saber se expressar bem melhora:
+
+Apresentação de projetos
+
+Clareza de ideias
+
+Resolução de conflitos
+
+Produtividade em equipe
+
+🔹 Criatividade
+
+Ser criativo ajuda a:
+
+Resolver problemas de forma inovadora
+
+Se destacar no ambiente de trabalho
+
+Pensar em soluções únicas
+
+Avançar na carreira
+
+💻 Hard Skills
+
+As Hard Skills são habilidades técnicas adquiridas por estudo e prática — especialmente relevantes na área de tecnologia.
+
+Principais Hard Skills apresentadas:
+🔹 Linguagens de Programação
+
+Domínio em linguagens como:
+
+Python
+
+Java
+
+C++
+
+JavaScript
+
+Isso permite criar códigos eficientes e resolver problemas complexos.
+
+🔹 Banco de Dados SQL
+
+Conhecer SQL e sistemas de gerenciamento de bancos de dados permite:
+
+Criar estruturas eficientes
+
+Otimizar tempo
+
+Gerar resultados precisos
+
+Ter mais destaque profissional
+
+🔗 Referências apresentadas no arquivo
+
+Alura — Hard Skills
+
+Unijorge — Hard e Soft Skills para Desenvolvedores
+
+Alura — Soft Skills para Carreira em Tecnologia
